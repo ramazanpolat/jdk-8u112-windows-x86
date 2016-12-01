@@ -14,9 +14,9 @@ Because installing with Oracle Installer sucks.
 ```
 #!cmd
 
-mkdir c:\JDK
-cd c:\JDK
-git clone https://bitbucket.org/ramazanpolat/jdk-8u112-windows-x64
+    mkdir c:\JDK
+    cd c:\JDK
+    git clone https://bitbucket.org/ramazanpolat/jdk-8u112-windows-x64
 
 
 That's it. Now you have JDK 8u112.
