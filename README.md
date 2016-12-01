@@ -12,7 +12,7 @@ Because installing with Oracle Installer sucks.
 
 
 ```
-#!cmd
+### How to get it? ###
 
     mkdir c:\JDK
     cd c:\JDK
