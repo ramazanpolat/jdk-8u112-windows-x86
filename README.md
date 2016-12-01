@@ -1,19 +1,22 @@
-# README #
+# Portable JDK 8u112 32bit for Windows #
 
-Portable JDK SE 1.8u112-32bit for Windows.
+This is a portable version of JDK 8u112 32bit for Windows .
 
-### What is this repository for? ###
+### Why portable JDK? ###
 
-TBD
+Because installing with Oracle Installer sucks.
 
 ### How do I get set up? ###
 
-TBD
+*  just clone this repository wherever you want:
 
-### Contribution guidelines ###
 
-TBD
+```
+#!cmd
 
-### Who do I talk to? ###
+mkdir c:\JDK
+cd c:\JDK
+git clone https://bitbucket.org/ramazanpolat/jdk-8u112-windows-x64
 
-TBD
+
+That's it. Now you have JDK 8u112.
